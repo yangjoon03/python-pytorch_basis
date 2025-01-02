@@ -1,7 +1,7 @@
 ## pytorch기반 python코드
   * .py 확장자로는 출력이 되지 않음.
 
-## list_indexing
+## 1.list_indexing
   ``` python
   list.append()
   list.extend()  #list+list
