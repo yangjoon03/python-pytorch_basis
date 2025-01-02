@@ -1,5 +1,5 @@
 ## pytorch기반 python코드
-  * py확장자로는 출력이 되지 않음.
+  * .py 확장자로는 출력이 되지 않음.
 
 ## list_indexing
   ``` python
