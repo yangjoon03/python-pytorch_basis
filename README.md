@@ -1,6 +1,6 @@
 ## pytorch기반 python코드
-  * .py 확장자로는 출력이 되지 않음.
-
+  * 기초는 .py 확장자로는 출력이 되지 않음.
+  * .py , .ipynb 확장자 ✔확인
 ## 1.list_indexing
   ``` python
   list.append()
