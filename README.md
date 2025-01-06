@@ -23,7 +23,7 @@
 ## numpy
 <br>
 
-## 폴더 불러오기
+## Importing Data pytorch(데이터 불러오기)
  * 데이터 경로
  ```python
  #절대경로
