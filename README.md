@@ -19,3 +19,15 @@
 <br>
 
 ## slicing
+## for
+## numpy
+<br>
+
+## 폴더 불러오기
+ * 데이터 경로
+ ```python
+ #절대경로
+ dataset_path = "C:/Users/양준영/project/data/folder/train"
+ #상대경로
+ dataset_path = "data/folder/train"
+ ```
