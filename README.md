@@ -23,7 +23,7 @@
 ## numpy
 <br>
 
-## Importing Data pytorch(데이터 불러오기)
+## A.Importing Data pytorch(데이터 불러오기)
  * 데이터 경로
  ```python
  #절대경로
@@ -31,3 +31,5 @@
  #상대경로
  dataset_path = "data/folder/train"
  ```
+<br>
+## B.전처리
