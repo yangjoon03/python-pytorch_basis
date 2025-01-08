@@ -32,4 +32,16 @@
  dataset_path = "data/folder/train"
  ```
 <br>
-## B.전처리
+
+## B.Compose 이미지 전처리
+ * 이미지 자르기,회전,반전,크롭 등을 지원함.
+ * 추가로 이미지 특정개수로 나누기 등도 있음.
+```python
+transform = transforms.Compose([
+transforms.resize()
+])
+```
+<br>
+
+## C.CV2 이미지 전처리
+
