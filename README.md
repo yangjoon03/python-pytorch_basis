@@ -44,4 +44,7 @@ transforms.resize()
 <br>
 
 ## C.CV2 이미지 전처리
+<br>
 
+## D.데이터 분할
+ * 훈련 , 검증 , 테스트
