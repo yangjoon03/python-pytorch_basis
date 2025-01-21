@@ -43,6 +43,11 @@ transforms.resize()
 ```
 <br>
 
+ * ColorJitter 범위 지정
+ ```python
+ transforms.ColorJitter(brightness=(1.5, 2), contrast=(0.8, 1.2),saturation = 0.3,hue=0.01)
+ ```
+
 ## C.CV2 이미지 전처리
 <br>
 
